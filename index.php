@@ -14,52 +14,6 @@
 
   <meta name="theme-color" content="#563d7c">
 
-
-  <style>
-    .bd-placeholder-img {
-      font-size: 1.125rem;
-      text-anchor: middle;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      -ms-user-select: none;
-      user-select: none;
-    }
-
-    @media (min-width: 768px) {
-      .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-      }
-    }
-
-    .bg {
-      margin: 0;
-      padding: 0;
-      background: url(./background.jpg) no-repeat center fixed;
-      -webkit-background-size: cover;
-      /* pour anciens Chrome et Safari */
-      background-size: cover;
-      /* version standardisée */
-    }
-
-    .masthead-brand {
-      float: left;
-      padding: 15px;
-      text-align: center;
-      width: 100%;
-    }
-
-    .masthead-brand {
-      float: none;
-    }
-
-    @supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
-      .cover {
-        -webkit-backdrop-filter: blur(5%);
-        backdrop-filter: blur(5%);
-        background-color: rgba(255, 255, 255, 0.1);
-      }
-    }
-  </style>
   <!-- Custom styles for this template -->
   <link href="cover.css" rel="stylesheet">
 </head>
@@ -84,7 +38,7 @@
 
     <footer class="mastfoot mt-auto">
       <div class="inner">
-        <p>Site fait par <a href="https://redirict.comon-real.fr">Com'On Réal</a></p>
+        <p>Site fait par <a href="https://redirect.comon-real.fr">Com'On Réal</a></p>
       </div>
     </footer>
   </div>
